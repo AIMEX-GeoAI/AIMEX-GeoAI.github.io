@@ -1,0 +1,14 @@
+title: AIMEX Lab
+description: Artificial Intelligence for Mineral Exploration Laboratory
+url: https://aimex-geoai.github.io
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+collections_dir: .
+include:
+  - _pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
